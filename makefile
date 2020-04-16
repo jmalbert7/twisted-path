@@ -1,4 +1,4 @@
-#Project: Final Project - makefile
+#Project: Final Project - makefile test
 #Name: Jessica Albert
 #Date: 3/11/19
 
